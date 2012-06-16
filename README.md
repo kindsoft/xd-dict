@@ -6,33 +6,33 @@ XD is a simple and Cross-Platform dictionary software written in Qt4.
 ## Directory structure (Windows version)
 
 ```
-©¦  xd.exe
-©¦  index-creator.exe
-©¦  msvcr80.dll
-©¦  msvcp80.dll
-©¦  QtCore4.dll
-©¦  QtGui4.dll
-©¦  Microsoft.VC80.CRT.manifest
-©¦  options.ini
-©¦  app.ini
-©¦
-©À©¤doc
-©¦  readme.txt
-©¦  licence.txt
-©¦
-©À©¤dict
-©¦  top.index
-©¦  bottom.index
-©¦  middle.index
-©¦  jp-jp_koujien.dict
-©¦  jp-kr_kjdict.dict
-©¦  kr-jp_kjdict.dict
-©¦  en-ja_jmdict.dict
-©¦  en-cn_jianming.dict
-©¦  cn-en_jianming.dict
-©¦  cn-cn_gaojihanyu.dict
-©¦
-©¸©¤lang
+â”‚  xd.exe
+â”‚  index-creator.exe
+â”‚  msvcr80.dll
+â”‚  msvcp80.dll
+â”‚  QtCore4.dll
+â”‚  QtGui4.dll
+â”‚  Microsoft.VC80.CRT.manifest
+â”‚  options.ini
+â”‚  app.ini
+â”‚
+â”œâ”€doc
+â”‚  readme.txt
+â”‚  licence.txt
+â”‚
+â”œâ”€dict
+â”‚  top.index
+â”‚  bottom.index
+â”‚  middle.index
+â”‚  jp-jp_koujien.dict
+â”‚  jp-kr_kjdict.dict
+â”‚  kr-jp_kjdict.dict
+â”‚  en-ja_jmdict.dict
+â”‚  en-cn_jianming.dict
+â”‚  cn-en_jianming.dict
+â”‚  cn-cn_gaojihanyu.dict
+â”‚
+â””â”€lang
    zh_CN.qm
    en.qm
 ```
